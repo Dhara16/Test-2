@@ -4,8 +4,10 @@
         System.out.print("Hello");
         System.out.print("1234");
         System.out.println("ABCD");
+        System.out.print("Busy");
         System.out.println("World");
         System.out.print ("Sky");
+        System.out.print("Good night");
         int x; //int y;
     }
 }
